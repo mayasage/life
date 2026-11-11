@@ -1,15 +1,22 @@
 # Maths
 
-## P/E Ratio
+## Process
+
+1. Intrinsic Value per Share
+    - PV of future earnings / Number of Shares
+    - It will tell you what the actual value of the share is, then compare it with the current market price
+2. Calculate CAGR (Compound Annual Growth Rate)
+    - Reverse the Compounding formula
+    - (Final Amount / Initial Investment) ^ (1 / Number of years) - 1
+    - It will tell you expected returns per year
+
+## Appendix
+
+### Future Value When Average Growth Rate is known
 
 ```text
-P/E Ratio = how many dollars the market is willing to pay today for $1 of current earnings.  
-          = PV of all future earnings / current EPS
-```
-
-## Future Value When Average Growth Rate is known
-
 Future Value = Current Value * (Average rate of growth for the next N years) ^ N years
+```
 
 Derivation:
 
@@ -28,6 +35,6 @@ Derivation:
 |  5   |           1.5 * (1.06)^4           |           1.5 * (1.06)^4 * 1.06            | 
 
 ```text
-The final Value at the start of the 6th year = 1.5 * (1.06)^5
+The final Value at the start of the 6th year = 1.5 * (1.06) ^ 5
                                              = Current Value * (Average Growth Rate for the next N years) ^ N years
 ```
