@@ -14,6 +14,27 @@ Avoid.
 "Investment in Futures & Options."
 Bullshit. You don't "invest" in futures, you "gamble" in it.
 
+## 360 ONE WAM Ltd
+
+Avoid.
+
+Private wealth management.  
+Impossible to understand.
+
+## 3B Blackbio DX Ltd
+
+Avoid.
+
+Bio: "manufactures and exports PCR based Molecular Diagnostic kits, PCR Enzymes & PCR Reagents, and agrochemical-based products"  
+I can't tell if this has a moat or not, or what can kill it.
+
+## 3B Films Ltd
+
+Avoid.
+
+Bio: "engaged in the manufacturing and supplying of Cast Polypropylene (CPP) and Cast Polyethylene (CPE) films for packaging and thermoforming applications"  
+I have no idea what's it talking about.
+
 ## 3C IT Solutions & Telecoms (India) Ltd
 
 Avoid.
@@ -56,24 +77,3 @@ I also don't know how I'm going to get money from this stock, because they neith
 Avoid.
 
 Similar business like `Krsnaa Diagnostics Ltd`, except this is much much smaller and family controlled. I'd avoid it.
-
-## 360 ONE WAM Ltd
-
-Avoid.
-
-Private wealth management.  
-Impossible to understand.
-
-## 3B Blackbio DX Ltd
-
-Avoid.
-
-Bio: "manufactures and exports PCR based Molecular Diagnostic kits, PCR Enzymes & PCR Reagents, and agrochemical-based products"  
-I can't tell if this has a moat or not, or what can kill it.
-
-## 3B Films Ltd
-
-Avoid.
-
-Bio: "engaged in the manufacturing and supplying of Cast Polypropylene (CPP) and Cast Polyethylene (CPE) films for packaging and thermoforming applications"  
-I have no idea what's it talking about.
