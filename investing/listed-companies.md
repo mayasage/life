@@ -29,6 +29,14 @@ It's both too hard and a no.
 Too hard because I can't tell what disgusting politics these kinds of companies do to win over projects.  
 No because I personally hate these sweat-shops, even when they generate employment.
 
+## Pashupati Acrolyn Ltd
+
+Avoid.
+
+Their core business was declining, so they switched to producing ethanol. Government is pushing for ethanol, so they have a first-mover advantage.
+But this business is saturated and low moat. Alcohol producers are also making ethanol. None of these producers have any pricing power. P/E of 5x and price of 76/share is high for this.
+The biggest problem is fixed prices by government and a risk of overproduction of ethanol by many companies. Government is their only buyer. The oil companies who use blend ethanol into other things. It is a very small player in ethanol production. Math rounding error level small. No moat and no pricing power.
+
 ## Krsnaa Diagnostics Ltd
 
 Wait for it to Fall.
