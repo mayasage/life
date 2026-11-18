@@ -77,3 +77,9 @@ I also don't know how I'm going to get money from this stock, because they neith
 Avoid.
 
 Similar business like `Krsnaa Diagnostics Ltd`, except this is much much smaller and family controlled. I'd avoid it.
+
+## Time Technoplast Ltd
+
+Wait for price fall.
+
+The business itself is good, but the management is wasting cash. They don't seem to have any idea about how to efficiently use it. The cash generated from the business is pretty low compared to how much it sells (6000cr sales to 250cr cash). It's weak for a business having some moat. The moat here is not a technically strong product, but partnership and being big I guess. Anyways, it's selling at 18x P/E. I wouldn't want to touch it anywhere above 10x. So that would be around 100-120.
