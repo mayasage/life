@@ -31,3 +31,11 @@ Derivation:
 The final Value at the start of the 6th year = 1.5 * (1.06)^5
                                              = Current Value * (Average Growth Rate for the next N years) ^ N years
 ```
+
+## Expected price after reducing P/E
+
+Price = P/E * EPS
+
+Usage:
+1. If current P/E is 14.8 and the stock price is 144, we can find EPS = 144/14.8 = 9.73
+2. If you expect P/E should be 5x, then the expected price should be EPS * expected P/E = 9.73 * 5 = 48.65
