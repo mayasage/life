@@ -84,6 +84,14 @@ Avoid.
 
 Similar business like `Krsnaa Diagnostics Ltd`, except this is much much smaller and family controlled. I'd avoid it.
 
+## Tanla Platforms Ltd
+
+Wait for price fall.
+
+They have a good business, but they don't have a strong moat. What they have done is build software products on top of telecoms like Airtel and Reliance to do "communications". So if banks want to send millions of messages, they contact Tanla, and Tanla does it for some fee. Just by reading it, you get that this is a low margin business, and it's something with low moat too. There are like 10 competitors here including Airtel itself. Now, you'd expect the management to start building some moat and expanding to nearby countries, but that is not what they're doing. They acquired some business named "ValueFirst" from Twilio for a lot of money. The decision just doesn't sound good as is. Why would they acquire another company instead of trying to expand on their own. I am unhappy with the management decisions. Apart from this they are trying to build random products like a cybersecurity product "Wisely.ai: positioned as an enterprise/carrier security product, intended to detect phishing, fraudulent links and malicious communications across messaging networks" and some ad sales dashboard "Ads2Chat: on the top of what meta provides, this attempts to provide additional tracking across advertising clicks, WhatsApp conversations and subsequent customer actions". The management has lost it. Maybe they got lucky with the communications. 
+
+The only reason I am going to buy this is because I hope for it to increase and that should be around half the price. It's selling at 670 last time I checked, so that's 335.
+
 ## Time Technoplast Ltd
 
 Wait for price fall.
