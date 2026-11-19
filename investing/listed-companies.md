@@ -50,6 +50,12 @@ It's both too hard and a no.
 Too hard because I can't tell what disgusting politics these kinds of companies do to win over projects.  
 No because I personally hate these sweat-shops, even when they generate employment.
 
+## Finolex Industries Ltd
+
+Avoid.
+
+The company is big and has a lot of sales, but they're not increasing. This stock has went down since 5 years. It's expensive at >14x multiple. It is in a heavy capex business. Has low cash generation and need debt for both wc and expansion. The management is expanding to non-agriculture now. I don't know at what P/E this would make sense. But if I say "Time Technoplast Ltd" should be around 10x, then this should be at 5x probably. That's 48-50 range.
+
 ## Krsnaa Diagnostics Ltd
 
 Wait for it to Fall.
