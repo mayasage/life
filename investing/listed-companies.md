@@ -70,6 +70,12 @@ Their core business was declining, so they switched to producing ethanol. Govern
 But this business is saturated and low moat. Alcohol producers are also making ethanol. None of these producers have any pricing power. P/E of 5x and price of 76/share is high for this.
 The biggest problem is fixed prices by government and a risk of overproduction of ethanol by many companies. Government is their only buyer. The oil companies who use blend ethanol into other things. It is a very small player in ethanol production. Math rounding error level small. No moat and no pricing power.
 
+## Route Mobile Ltd
+
+Wait for turnaround.
+
+This stock has been decreasing all it's life. It's majority controlled by Proximus Group which holds international infrastructure. This is in the same business as Tanla, but also competes internationally. It's selling at a P/E of around 7.4 and it keeps on decreasing. It's Revenue, GPM, EBITDA and Net Profit, all are less than Tanla's but the Proximus Group holding and international presence puts this in a better position than Tanla. AI gave me 411 as the bearest scenario and it's currently at 417. I am thinking of keeping a watch on this. The company overall is not bad, and has the potential to build some moat. It's potential is better than Tanla's which is selling at 660. So I am waiting at some point the stock would turn around and rally, and then I can buy. 30% margin of safety would put this in 290-300 range, which is not too far considering it's still heavily bearish. The company is not bad, but I don't know just where to catch this thing. I can't tell how low it will go. It has hella considerable upside, but it can still go down and never recover based on the history of this stock. It is better to play safe and accept less returns than to burn the money.
+
 ## Shri Techtex Ltd
 
 Avoid.
