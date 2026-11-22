@@ -105,3 +105,9 @@ The only reason I am going to buy this is because I hope for it to increase and 
 Wait for price fall.
 
 The business itself is good, but the management is wasting cash. They don't seem to have any idea about how to efficiently use it. The cash generated from the business is pretty low compared to how much it sells (6000cr sales to 250cr cash). It's weak for a business having some moat. The moat here is not a technically strong product, but partnership and being big I guess. Anyways, it's selling at 18x P/E. I wouldn't want to touch it anywhere above 10x. So that would be around 100-120.
+
+## Virtual Galaxy Infotech Ltd
+
+Wait for turnaround.
+
+It has been continuously falling down since 5 years. Based on the bear case with margin of safety, AI is telling me it's price should be around 50. The business is not in decline, in fact, it's improving. They are closing new deals and are doing capex on BOT pipeline. Now I don't know how good or bad management is, but I don't think they're going to do significant capex just on the whim. They must have seen some good signals on BOT. BOT means Build, Operate and Transfer. Basically, they're purchasing resources so that they can handle the complete IT for SME banks in exchange for monthly annuity. One good thing about this company is that it won tenders on banks in Africa and India despite bidding higher, which means it has some pricing power and the customers value something more than just the lowest bidder. Their main product is some E-banker software (maybe some infrastructure too) which respects RBI regulations. Clients picked them despite then charging like 10cr+ more. This is a good sign. Plus, they also have international presence. This company also integrates tightly into client's business which has the switching cost moat. 
