@@ -56,6 +56,12 @@ Wait for price fall.
 
 The company is big and has a lot of sales, but they're not increasing. This stock has went down since 5 years. It's expensive at >14x multiple. It is in a heavy capex business. Has low cash generation and need debt for both wc and expansion. The management is expanding to non-agriculture now. I don't know at what P/E this would make sense. But if I say "Time Technoplast Ltd" should be around 10x, then this should be at 5x probably. That's 48-50 range.
 
+## Kellton Tech Solutions Ltd
+
+Avoid.
+
+Small IT service company. The cash flow is not good. The management is keeping a lot of reserves and is not building any moat.
+
 ## Krsnaa Diagnostics Ltd
 
 Wait for price fall.
