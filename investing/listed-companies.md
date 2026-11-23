@@ -82,6 +82,12 @@ Needs a lot of price fall.
 
 Need around 50% price-fall to 170-180 to even think about it. Even its 52w low was 242. Very mispriced. It's selling at 15x like it's some growth company with 20-25% gross margin. It's margin is fixed by the government and it always will be. It has heavy debt. And the only reason for its existence is because government needs it. It's national security thing with a little profit so that government don't have to support it. It's never going to become net positive. It's a very heavy capex industry. For every expansion, it needs heavy capex. Even 170 is high for this. It needs to be around 120 or something. It's selling at 265. 
 
+## Reliance Infrastructure Ltd
+
+Avoid.
+
+Wait for it to fall to 1. It needs multi-year recovery. It has a 51% stake in the delhi electricity distribution thing and own Mumbai metro. Mumbai metro is a loss-making thing. It makes a lot of loss. In the long-run it may make money, but you still have to question just how much. This company's liabilities is very high. The actual debt is not that high, but it keeps on making huge losses on its businesses (especially Mumbai Metro), and it says they have to recover some 35000cr from govt for electricity. I don't think this recovery will ever go through. The management is also talking about multi-year recovery and that means at some point of time, the stock may crash. You look at it at that time. It's P/E is only 1 right now, but it still feels expensive because the GPM is very low, they have a lot of money they couldn't and will never recover. They have some litigation problems. It's just not clean. And they don't pay any dividends in exchange for the risks either. Unless something changes dramatically, it will take a long time to recover.
+
 ## Route Mobile Ltd
 
 Wait for turnaround.
