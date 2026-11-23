@@ -50,6 +50,12 @@ It's both too hard and a no.
 Too hard because I can't tell what disgusting politics these kinds of companies do to win over projects.  
 No because I personally hate these sweat-shops, even when they generate employment.
 
+## CESC Ltd
+
+Wait for price fall.
+
+Somewhere around 80-100. It's at some 126 right now. This is more of a long-term stock. It has good business and cash flow. It has a lot of debt, but it's generating cash flow too. The management is stupidly expanding into solar manufacturing instead of forming partnership with some company already having this expertise. Other than this, it has won tenders and seem to have land and resources for it's green expansion. I wouldn't say management is bad or good. The green energy power generation itself seems fine, but the problem I have with them is that they're not focusing on killing debt. They'll need more debt for the expansion. They already own many power distribution and generation assets in various cities. They are private too, not govt. only like PowerGrid. They also pay dividends. So the promoter needs to be more focused because they can't sit back and relax on government backing. Not a bad stock. But it's a long 5 years run kind of stock. Honestly, a part of me wants to wait for it fall to some 50-70 range, but I am not sure if it will. Currently it's at 126, and that seems high for a utility which will take a long time to start generating some serious cash. In that time, it could fall at some point of time.
+
 ## Finolex Industries Ltd
 
 Wait for price fall.
@@ -86,7 +92,7 @@ Need around 50% price-fall to 170-180 to even think about it. Even its 52w low w
 
 Avoid.
 
-Wait for it to fall to 1. It needs multi-year recovery. It has a 51% stake in the delhi electricity distribution thing and own Mumbai metro. Mumbai metro is a loss-making thing. It makes a lot of loss. In the long-run it may make money, but you still have to question just how much. This company's liabilities is very high. The actual debt is not that high, but it keeps on making huge losses on its businesses (especially Mumbai Metro), and it says they have to recover some 35000cr from govt for electricity. I don't think this recovery will ever go through. The management is also talking about multi-year recovery and that means at some point of time, the stock may crash. You look at it at that time. It's P/E is only 1 right now, but it still feels expensive because the GPM is very low, they have a lot of money they couldn't and will never recover. They have some litigation problems. It's just not clean. And they don't pay any dividends in exchange for the risks either. Unless something changes dramatically, it will take a long time to recover.
+Wait for it to fall to 1. It needs multi-year recovery. It has a 51% stake in the delhi electricity distribution thing (BSES Delhi) and own Mumbai metro. Mumbai metro is a loss-making thing. It makes a lot of loss. In the long-run it may make money, but you still have to question just how much. This company's liabilities is very high. The actual debt is not that high, but it keeps on making huge losses on its businesses (especially Mumbai Metro), and it says they have to recover some 35000cr from govt for electricity. I don't think this recovery will ever go through. The management is also talking about multi-year recovery and that means at some point of time, the stock may crash. You look at it at that time. It's P/E is only 1 right now, but it still feels expensive because the GPM is very low, they have a lot of money they couldn't and will never recover. They have some litigation problems. It's just not clean. And they don't pay any dividends in exchange for the risks either. Unless something changes dramatically, it will take a long time to recover.
 
 ## Route Mobile Ltd
 
