@@ -76,6 +76,12 @@ Their core business was declining, so they switched to producing ethanol. Govern
 But this business is saturated and low moat. Alcohol producers are also making ethanol. None of these producers have any pricing power. P/E of 5x and price of 76/share is high for this.
 The biggest problem is fixed prices by government and a risk of overproduction of ethanol by many companies. Government is their only buyer. The oil companies who use blend ethanol into other things. It is a very small player in ethanol production. Math rounding error level small. No moat and no pricing power.
 
+## Power Grid Corporation of India Ltd
+
+Needs a lot of price fall.
+
+Need around 50% price-fall to 170-180 to even think about it. Even its 52w low was 242. Very mispriced. It's selling at 15x like it's some growth company with 20-25% gross margin. It's margin is fixed by the government and it always will be. It has heavy debt. And the only reason for its existence is because government needs it. It's national security thing with a little profit so that government don't have to support it. It's never going to become net positive. It's a very heavy capex industry. For every expansion, it needs heavy capex. Even 170 is high for this. It needs to be around 120 or something. It's selling at 265. 
+
 ## Route Mobile Ltd
 
 Wait for turnaround.
