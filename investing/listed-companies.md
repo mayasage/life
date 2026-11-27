@@ -50,6 +50,12 @@ It's both too hard and a no.
 Too hard because I can't tell what disgusting politics these kinds of companies do to win over projects.  
 No because I personally hate these sweat-shops, even when they generate employment.
 
+## Brahm Virat Industries Corporation Ltd
+
+Avoid.
+
+Same problem as Filatex Fashions Ltd. Unlike them, the management here is looking elsewhere. However, nothing is proven yet. It's trying to move from manufacturer to Lifestyle. And there is news of some hardwood manufacturer from US partnership. The problem is that both these businesses have intense competition in India. The odds are against them.
+
 ## CESC Ltd
 
 Wait for price fall.
