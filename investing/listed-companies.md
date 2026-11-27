@@ -122,6 +122,12 @@ I couldn't find out exactly how they make their money. It's a little opaque. The
 
 I also don't know how I'm going to get money from this stock, because they neither pay dividends nor do they have any solid product.
 
+## Spenta International Ltd
+
+Avoid.
+
+In the same textile manufacture business but in a worse position than Filatex and Brahm. The GPM is going negative. Inventory and Debtor Days are high. Due to WC issues, the company have taken short-term borrowings. The company is not really in a position to look elsewhere.
+
 ## Star Imaging and Path Lab Ltd
 
 Avoid.
