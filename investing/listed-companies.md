@@ -56,6 +56,12 @@ Wait for price fall.
 
 Somewhere around 80-100. It's at some 126 right now. This is more of a long-term stock. It has good business and cash flow. It has a lot of debt, but it's generating cash flow too. The management is stupidly expanding into solar manufacturing instead of forming partnership with some company already having this expertise. Other than this, it has won tenders and seem to have land and resources for it's green expansion. I wouldn't say management is bad or good. The green energy power generation itself seems fine, but the problem I have with them is that they're not focusing on killing debt. They'll need more debt for the expansion. They already own many power distribution and generation assets in various cities. They are private too, not govt. only like PowerGrid. They also pay dividends. So the promoter needs to be more focused because they can't sit back and relax on government backing. Not a bad stock. But it's a long 5 years run kind of stock. Honestly, a part of me wants to wait for it fall to some 50-70 range, but I am not sure if it will. Currently it's at 126, and that seems high for a utility which will take a long time to start generating some serious cash. In that time, it could fall at some point of time.
 
+## Filatex Fashions Ltd
+
+Avoid.
+
+It's in textile manufacturing which is a low moat business. Instead of looking elsewhere, the management is trying to increase sales through acquisitions in poor countries (Africa).
+
 ## Finolex Industries Ltd
 
 Wait for price fall.
