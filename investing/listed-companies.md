@@ -80,6 +80,12 @@ Avoid.
 
 Small IT service company. The cash flow is not good. The management is keeping a lot of reserves and is not building any moat.
 
+## Kewal Kiran Clothing Ltd
+
+Avoid.
+
+It's expensive. The price should be around 200-250. It's selling at 17x P/E at 416. The business has a brand named Killer, and some others based on the price segments. The revenue is increasing too. But the problem is that the brand is not home-known like Jockey. The name is also not good, it signifies threat and fear, and is just odd, which is not a good name for a clothing brand. It's dividend distribution is sensible and it seems to have cheaper manufacturing. But it has no unassailable moat and it's in the generic clothing business. The management is not looking elsewhere, they're just trying to launch brands by pricing segments.  
+
 ## Krsnaa Diagnostics Ltd
 
 Wait for price fall.
