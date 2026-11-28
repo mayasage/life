@@ -92,6 +92,12 @@ Avoid.
 
 Nothing is proven yet. It's expensive right now and selling at 33.2 P/E at 1144. More importantly, even after having a brand, it has limited pricing power. It has serious competition in a low moat business. Even after increasing advertising, the sales and profit didn't grow as expected. Now, they're looking at partnerships and vertical expansion. They're not looking elsewhere.
 
+## Page Industries Ltd
+
+Avoid.
+
+They own Jockey, and has good sales. Good business, but terrible management. It's family controlled and they give away most of the free cash flow as dividends (80-88%). It's pretty clear what the management's priorities are. They are not interested in building, sustaining and expanding moat, instead they are treating the company as a cash cow to fill their own coffers. Sooner rather than later this company will fail even though it had around 22% GPM consistently, because the management is "conservative" and can't find attractive business opportunities. Jockey has no brand loyalty and can be easily beaten by foreign competitors if they play on pricing. It's selling at a ridiculous 43x P/E at 30,850.
+
 ## Pashupati Acrolyn Ltd
 
 Avoid.
