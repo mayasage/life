@@ -86,6 +86,12 @@ Wait for price fall.
 
 This company is selling at 16.8x multiple at 523. The business itself is starting to form some moat. They provide specialized machines and staff to government hospitals, like radiology. They are the number 1 national player. The problem is that their major customer is the government and they have payment delay. It needs borrowings for working capital and it does a lot of capex which needs even more borrowing. All that should improve revenue, but for a long time all it's earning will either go on capex or servicing it's debt. They don't have any pricing power, they bid on government contracts. The advantage they have is that they can bid at 70% discount or so it's said. It's trying to collect cash and picking a model where the customers pay directly to it. Apart from this it is also trying to partner up with small private hospitals because bigger ones already have the equipments. Overall it seems this can go somewhere, but not right now. You can buy it around 350 maybe, because this won't be generating cash in a long long time. It's still in capex and will remain so for much time. During 2-3 years, at some point of time this should fall due to debt pressure, it has fallen down since 5 years it's listed. And there are not a lot of volume in this stock, so that is probably why it doesn't spike down. I think we should wait for it to fall and it should fall slowly.
 
+## Lux Industries Ltd
+
+Avoid.
+
+Nothing is proven yet. It's expensive right now and selling at 33.2 P/E at 1144. More importantly, even after having a brand, it has limited pricing power. It has serious competition in a low moat business. Even after increasing advertising, the sales and profit didn't grow as expected. Now, they're looking at partnerships and vertical expansion. They're not looking elsewhere.
+
 ## Pashupati Acrolyn Ltd
 
 Avoid.
