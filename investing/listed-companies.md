@@ -50,6 +50,12 @@ It's both too hard and a no.
 Too hard because I can't tell what disgusting politics these kinds of companies do to win over projects.  
 No because I personally hate these sweat-shops, even when they generate employment.
 
+## Aditya Birla Lifestyle Brands Ltd
+
+Wait for price fall.
+
+It has many good brands under its name (Louis Philippe, Van Heusen, Allen Solly, Peter England, Simon Carter, American Eagle, Reebok, Van Heusen Innerwear). But it's YOLOing on debt fuelled expansion of physical stores. They're not trying to reduce the cost, they're focusing on having as many stores as possible. The sales are good. But the debt is just too high. I fear the investors won't make money for a very long time, because they'll keep on expanding on and on. They pay small dividends, which is not really bad, but if you're taking on so much debt, then just how will the shareholder get anything? It will take a long time. Additionally, it's selling at 40x P/E at 80. That's 40 years of earning. The company is already big with some 8000cr+ of revenue. What kind of growth will justify that? I'd think about it at 20-25/share.
+
 ## Brahm Virat Industries Corporation Ltd
 
 Avoid.
