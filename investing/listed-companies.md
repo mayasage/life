@@ -124,6 +124,12 @@ Needs a lot of price fall.
 
 Need around 50% price-fall to 170-180 to even think about it. Even its 52w low was 242. Very mispriced. It's selling at 15x like it's some growth company with 20-25% gross margin. It's margin is fixed by the government and it always will be. It has heavy debt. And the only reason for its existence is because government needs it. It's national security thing with a little profit so that government don't have to support it. It's never going to become net positive. It's a very heavy capex industry. For every expansion, it needs heavy capex. Even 170 is high for this. It needs to be around 120 or something. It's selling at 265. 
 
+## Raymond Lifestyle Ltd
+
+Avoid.
+
+It's that same Raymond you've heard about since childhood. It sells expensive crap to rich people. And that is still where it makes most of its money. Now they're going to diversify into other things, but there is already competition there. They were ahead of the game for so long, they could've done what they're trying to do today a long, long time ago, but they didn't. I don't have much hopes for such a business. The sales are like 6000cr but the operating cash is only 500cr. It's selling at 25 years of earning. It has a lot of name, so I don't think it will fall much. In 5 years it went down 80%. This company has a lot of problems to solve, which should have already been solved long ago. It's old and I don't know if it can keep up. It's selling at 558, and for the risk I guess it should fall to 200-250.
+
 ## Reliance Infrastructure Ltd
 
 Avoid.
